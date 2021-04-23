@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="  " group-title="NARUTO CLASSICO"  nome EP1 
-https://r1---sn-uxaoxun-5g0l.googlevideo.com/videoplayback?expire=1615674676&ei=tMxMYLGMK8ipzLUPrYKEsA4&ip=45.181.168.65&id=59f5fe9e5a1601b4&itag=18&source=blogger&mh=-G&mm=31&mn=sn-uxaoxun-5g0l&ms=au&mv=m&mvi=1&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=1416.254&lmt=1586785134538094&mt=1615645511&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhANa0xUY-_lctWzQsW9sQ_pBF5S7PD32aD2gG0l8fPBPnAiEA609E723-bzMaJUaQZCUSoMf4VcOtU4QUmLfDBmyS8n8%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgEVoHNUihCNzC7ibkegswpwZmyeFZeKmiaMG6BVHARcMCIFp2lSjnfouhOjEutv35Td2tO9ntXxnOMOF7XHdBG71S&cpn=X3spws7-bEatkyGy&c=WEB_EMBEDDED_PLAYER&cver=1.20210310.3.0
-#EXTINF:-1 tvg-logo="  " group-title="    "  nome
-link:
-#EXTINF:-1 tvg-logo="  " group-title="    "  nome
-link:
+#EXTINF:-1group-title="bande"        bande
+http://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/band_49e3d046_d1cc887616478bcd1e6e658c1b87b308aa43e908/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiNDUuMTgxLjE2OC43NSI7aToxO3M6MTMzOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODcuMC40MjgwLjE0MSBTYWZhcmkvNTM3LjM2IE9QUi83My4wLjM4NTYuNDM4IjtpOjI7aToxNjE5MTgyNzY4O30%3D
